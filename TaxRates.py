@@ -1,5 +1,5 @@
 #---------------------------------------!!!THIS PROGRAM'S ALGORITHM WAS COLLECTED FROM https://taxfoundation.org/2020-sales-taxes -------------#
-#---------------------------------------!!!THIS PROGRAM USES THE COLUMN LABELED "COMBINED RATE!!!----------------------------------------------#
+#---------------------------------------!!!THIS PROGRAM USES THE COLUMN LABELED "COMBINED RATE"!!!----------------------------------------------#
 #----------------------------------------------------------------------------------------------------------------------------------------------#
 State = str(input('Please provide the state you are purchasing an item: '))
 priceOfProduct = float((input('What is the price of the product you are purchasing: ')))
